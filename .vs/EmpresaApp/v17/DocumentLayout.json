@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aulascsharp\\EmpresaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA58136F-6BB0-4E44-9CA0-7CD48BF7941D}|EmpresaApp.API\\EmpresaApp.API.csproj|c:\\aulascsharp\\empresaapp\\empresaapp.api\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA58136F-6BB0-4E44-9CA0-7CD48BF7941D}|EmpresaApp.API\\EmpresaApp.API.csproj|solutionrelative:empresaapp.api\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA58136F-6BB0-4E44-9CA0-7CD48BF7941D}|EmpresaApp.API\\EmpresaApp.API.csproj|c:\\aulascsharp\\empresaapp\\empresaapp.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA58136F-6BB0-4E44-9CA0-7CD48BF7941D}|EmpresaApp.API\\EmpresaApp.API.csproj|solutionrelative:empresaapp.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A9678B-E436-460D-AAD7-465378FDAA3D}|EmpresaApp.Domain\\EmpresaApp.Domain.csproj|c:\\aulascsharp\\empresaapp\\empresaapp.domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A9678B-E436-460D-AAD7-465378FDAA3D}|EmpresaApp.Domain\\EmpresaApp.Domain.csproj|solutionrelative:empresaapp.domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A9678B-E436-460D-AAD7-465378FDAA3D}|EmpresaApp.Domain\\EmpresaApp.Domain.csproj|c:\\aulascsharp\\empresaapp\\empresaapp.domain\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A9678B-E436-460D-AAD7-465378FDAA3D}|EmpresaApp.Domain\\EmpresaApp.Domain.csproj|solutionrelative:empresaapp.domain\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.API\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "EmpresaApp.API\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.API\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "EmpresaApp.API\\Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADwvzoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:00:26.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.API\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "EmpresaApp.API\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.API\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "EmpresaApp.API\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:00:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.Domain\\Entities\\Empresa.cs",
+              "RelativeDocumentMoniker": "EmpresaApp.Domain\\Entities\\Empresa.cs",
+              "ToolTip": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.Domain\\Entities\\Empresa.cs",
+              "RelativeToolTip": "EmpresaApp.Domain\\Entities\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:56:15.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.Domain\\Entities\\Funcionario.cs",
+              "RelativeDocumentMoniker": "EmpresaApp.Domain\\Entities\\Funcionario.cs",
+              "ToolTip": "C:\\aulascsharp\\EmpresaApp\\EmpresaApp.Domain\\Entities\\Funcionario.cs",
+              "RelativeToolTip": "EmpresaApp.Domain\\Entities\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:56:10.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

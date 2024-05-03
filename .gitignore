@@ -1,0 +1,26 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de configuração de usuário
+*.suo
+*.user
+*.sln.docstates
+
+# Logs e arquivos de diagnóstico
+*.log
+*.cache
+
+# Diretórios específicos
+node_modules/
+packages/
+packages-lock.json
+
+# Arquivos de dependências
+.DS_Store
+Thumbs.db
